@@ -1,0 +1,21 @@
+{
+  "name": "seo",
+  "version": "1.0.0",
+  "description": "vue spa seo",
+  "main": "express_spider.js",
+  "scripts": {
+    "run": "cross-env p=8888  node app",
+    "run2": "cross-env   p=8888  node app"
+  },
+  "keywords": [
+    "vue",
+    "seo",
+    "spa"
+  ],
+  "author": "zhangsailei",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "cross-env": "^3.0.0"
+  }
+}
